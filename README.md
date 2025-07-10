@@ -1,3 +1,4 @@
+# Elevate Labs Task 5
 # 📡 Network Packet Analysis (DNS, TCP, HTTP)
 
 This repository contains a basic packet analysis of network traffic using Wireshark. The analysis focuses on DNS, TCP, and HTTP traffic observed between different hosts during a simulated web access session.
