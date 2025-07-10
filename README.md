@@ -65,23 +65,4 @@ This repository contains a basic packet analysis of network traffic using Wiresh
 
 ---
 
-## 📎 Repository Structure
 
-```
-network-packet-analysis/
-│
-├── captures/
-│   ├── dns_packets.png
-│   ├── tcp_packets.png
-│   ├── http_packets.png
-│
-├── README.md
-```
-
----
-
-## 👤 Author
-
-- Name: *[Your Name Here]*
-- Course: *[Course or Assignment Name]*
-- Institution: *[Your College/University Name]*
